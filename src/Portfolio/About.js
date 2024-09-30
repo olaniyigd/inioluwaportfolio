@@ -11,7 +11,7 @@ export default function About (){
     return(
             <div id="about-head" className="rev">
                 <h1 className="about-title">-About-</h1>
-                <p data-aos="fade-up" className="about-text">Results-driven finance analyst with expertise in financial modeling, forecasting, and data analysis. Possesses strong analytical and problem-solving skills, with a deep understanding of financial statements and accounting principles. Proficient in Excel, SQL, and other financial software, able to manage complex financial data sets and present findings to senior management. Highly detail-oriented, with excellent communication and interpersonal skills, able to work independently or as part of a team. Committed to driving organizational success through strategic financial insights and recommendatios.  </p>
+                <p data-aos="fade-up" className="about-text"> finance analyst with expertise in financial modeling, forecasting, and data analysis. Possesses strong analytical and problem-solving skills, with a deep understanding of financial statements and accounting principles. Proficient in Excel, SQL, and other financial software, able to manage complex financial data sets and present findings to senior management. Highly detail-oriented, with excellent communication and interpersonal skills, able to work independently or as part of a team. Committed to driving organizational success through strategic financial insights and recommendatios.  </p>
                 <div className="about">
                     <div className="about-left">
                         <img src={tango3} alt="niyi" data-aos="fade-up" className="aboutimage" />
